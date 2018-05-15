@@ -1,0 +1,9 @@
+/Users/dreeki/Projects/TodoXamarin/TodoXamarin/bin/Debug/netstandard2.0/TodoXamarin.deps.json
+/Users/dreeki/Projects/TodoXamarin/TodoXamarin/bin/Debug/netstandard2.0/TodoXamarin.dll
+/Users/dreeki/Projects/TodoXamarin/TodoXamarin/bin/Debug/netstandard2.0/TodoXamarin.pdb
+/Users/dreeki/Projects/TodoXamarin/TodoXamarin/obj/Debug/netstandard2.0/TodoXamarin.csprojResolveAssemblyReference.cache
+/Users/dreeki/Projects/TodoXamarin/TodoXamarin/obj/Debug/netstandard2.0/TodoXamarin.csproj.CoreCompileInputs.cache
+/Users/dreeki/Projects/TodoXamarin/TodoXamarin/obj/Debug/netstandard2.0/TodoXamarin.AssemblyInfoInputs.cache
+/Users/dreeki/Projects/TodoXamarin/TodoXamarin/obj/Debug/netstandard2.0/TodoXamarin.AssemblyInfo.cs
+/Users/dreeki/Projects/TodoXamarin/TodoXamarin/obj/Debug/netstandard2.0/TodoXamarin.dll
+/Users/dreeki/Projects/TodoXamarin/TodoXamarin/obj/Debug/netstandard2.0/TodoXamarin.pdb

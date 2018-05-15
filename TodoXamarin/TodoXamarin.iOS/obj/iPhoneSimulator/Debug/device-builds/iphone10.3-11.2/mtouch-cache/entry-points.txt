@@ -1,0 +1,33 @@
+Function=xamarin_timezone_get_data
+	/Users/dreeki/Projects/TodoXamarin/TodoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/dreeki/Projects/TodoXamarin/TodoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/dreeki/Projects/TodoXamarin/TodoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/dreeki/Projects/TodoXamarin/TodoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/dreeki/Projects/TodoXamarin/TodoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/dreeki/Projects/TodoXamarin/TodoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/dreeki/Projects/TodoXamarin/TodoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/dreeki/Projects/TodoXamarin/TodoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/dreeki/Projects/TodoXamarin/TodoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/dreeki/Projects/TodoXamarin/TodoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/dreeki/Projects/TodoXamarin/TodoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/dreeki/Projects/TodoXamarin/TodoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/dreeki/Projects/TodoXamarin/TodoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/dreeki/Projects/TodoXamarin/TodoXamarin.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/mtouch-cache/Link/System.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

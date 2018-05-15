@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{3719546C-D34B-4EF8-AF50-803C539094A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoXamarin/ViewModels/ItemsViewModel.cs">
+    <Files>
+      <File FileName="TodoXamarin/Services/MockDataStore.cs" Line="53" Column="16" />
+      <File FileName="TodoXamarin/ViewModels/ItemsViewModel.cs" Line="37" Column="23" />
+      <File FileName="TodoXamarin/Views/NewItemPage.xaml.cs" Line="50" Column="43" />
+      <File FileName="TodoXamarin/Views/ItemDetailPage.xaml.cs" Line="48" Column="10" />
+      <File FileName="TodoXamarin/ViewModels/ItemDetailViewModel.cs" Line="13" Column="25" />
+      <File FileName="TodoXamarin/Views/ItemsPage.xaml.cs" Line="22" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TodoXamarin.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.ItemProperties.TodoXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E5B9ED03-22A3-41B7-BEE4-D79EFCEEF5D1" />
+</Properties>
